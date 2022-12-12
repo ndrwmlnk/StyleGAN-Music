@@ -1,6 +1,6 @@
 
 
-
+![alt text](https://github.com/ndrwmlnk/StyleGAN-Music/blob/main/EditingEmotion/result.png)
 This code by using StyleGan3 and exploring in z and w space and producing continuous pictures from changing emotions. 
 Pre-trained data that want to use for train model can be Can change in (config and resolution). By default, we used "stylegan3-r-ffhq-1024x1024.pkl"
 
